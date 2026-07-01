@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/OptiFine_1.17.1_HD_U_H1.jar"
+hash = "1c7b7be3b6c81d863f58d031d7d98d82f9cbacb0aa68a22ac179a607b03cf793"
+
+[[files]]
+file = "mods/hocus-opus.pw.toml"
+hash = "2352aa028677cb246c906f7d2789656e1431dfd15f8a48b552088d4252ecea53"
+metafile = true
+
+[[files]]
+file = "mods/metaslobus.pw.toml"
+hash = "222bafcfb6567cfcf24723f2dfb3e95342cf37302acfe614a7a6a93c33d4e50e"
+metafile = true

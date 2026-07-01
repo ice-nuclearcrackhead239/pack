@@ -1,0 +1,37 @@
+{
+    "components": [
+        {
+            "cachedName": "LWJGL 3",
+            "cachedVersion": "3.2.2",
+            "dependencyOnly": true,
+            "uid": "org.lwjgl3",
+            "version": "3.2.2"
+        },
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "suggests": "3.2.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "cachedVersion": "1.17.1",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "1.17.1"
+        },
+        {
+            "cachedName": "Forge",
+            "cachedRequires": [
+                {
+                    "equals": "1.17.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "37.1.1",
+            "uid": "net.minecraftforge",
+            "version": "37.1.1"
+        }
+    ],
+    "formatVersion": 1
+}

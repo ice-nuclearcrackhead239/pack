@@ -1,0 +1,15 @@
+name = "metaslobus"
+filename = "metaslobus-1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Soumeh/metaslobus/releases/download/1.1/metaslobus-1.1.jar"
+hash-format = "sha256"
+hash = "abf46a03eba2f16fc1dd5d35323b4ecaccee558eae028930ec6cf66d50ce52d7"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Soumeh/metaslobus"
+tag = "1.1"

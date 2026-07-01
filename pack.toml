@@ -1,0 +1,13 @@
+name = "SVBCR"
+author = "nuclearcrackhead239"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d64e7663b8f1c5e93fa0380b7451caac78ec314629d27872e5ebbbcfedb38e0e"
+
+[versions]
+forge = "37.1.1"
+minecraft = "1.17.1"

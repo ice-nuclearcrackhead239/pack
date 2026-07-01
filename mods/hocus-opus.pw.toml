@@ -1,0 +1,15 @@
+name = "hocus-opus"
+filename = "hocus_opus-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ice-nuclearcrackhead239/hocus-opus/releases/download/1.0.0/hocus_opus-1.0.0.jar"
+hash-format = "sha256"
+hash = "02acfd3d206cd82ea57940f7f0febadd3652ede51c7c600df8035816a26b2596"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ice-nuclearcrackhead239/hocus-opus"
+tag = "1.0.0"
