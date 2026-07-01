@@ -1,0 +1,8 @@
+name = "OptiFine"
+filename = "OptiFine_1.17.1_HD_U_H1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/SynArchive/OptiFine-Archive/refs/heads/main/1.17.1/OptiFine_1.17.1_HD_U_H1.jar"
+hash-format = "sha256"
+hash = "1c7b7be3b6c81d863f58d031d7d98d82f9cbacb0aa68a22ac179a607b03cf793"

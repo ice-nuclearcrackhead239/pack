@@ -1,15 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/OptiFine_1.17.1_HD_U_H1.jar"
-hash = "1c7b7be3b6c81d863f58d031d7d98d82f9cbacb0aa68a22ac179a607b03cf793"
+file = "config/defaultoptions/options.txt"
+hash = "eb8ce5fb113d98354768fe23bc6c3841d030424da0e63944de6c41a2e2ec2d6e"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "c573909f87d4db1746e5fcbdd59a90ec538956368040ddacf47ef1de2708ab1d"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "4b5ac7bf62e6719473c4aa40ff006b3c81a0bf586aa4ff560912ff9a44249eee"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "be845a59a83a772b0c1c9454bd1bec499427912e2b4a4664adbf577b4907864c"
+metafile = true
 
 [[files]]
 file = "mods/hocus-opus.pw.toml"
-hash = "2352aa028677cb246c906f7d2789656e1431dfd15f8a48b552088d4252ecea53"
+hash = "0dc609759550f4ecf426d943ec14bb9f902cdb9f7b7992869e5274b9fb58bbbe"
 metafile = true
 
 [[files]]
 file = "mods/metaslobus.pw.toml"
-hash = "222bafcfb6567cfcf24723f2dfb3e95342cf37302acfe614a7a6a93c33d4e50e"
+hash = "e2dee6693109777d6390e5291c3293ef7662fa5dc178fc87f04a190dd5b71e92"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "df47255cd4a1757a2591f7243719b41a091505dfa823be7e22edf07c9ab14168"
 metafile = true
