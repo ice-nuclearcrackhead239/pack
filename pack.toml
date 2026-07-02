@@ -1,12 +1,12 @@
 name = "SVBCR"
 author = "nuclearcrackhead239"
-version = "1.0.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "53f9cdf961308b054b59980a8a57ac97da82190aabdd6d52623efea3c23abd21"
+hash = "6f6deb0762c446ab604ded1158e67bbf7822ed1341507cffce5ae963353484cf"
 
 [versions]
 forge = "37.1.1"
