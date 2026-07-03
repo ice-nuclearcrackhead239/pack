@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/metaslobus.pw.toml"
-hash = "647d5f7148dfefeb231e7faa84ffbb5495754d85c007a5e11c44130ae6fd24a3"
+hash = "ff9dae3f3433ec798ea64ab895d9eeb94b078d8c01fb98f747673ae91f124e28"
 metafile = true
 
 [[files]]
