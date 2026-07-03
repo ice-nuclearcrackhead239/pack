@@ -1,15 +1,15 @@
 name = "metaslobus"
-filename = "metaslobus-1.1.1.jar"
+filename = "metaslobus-1.2.jar"
 side = "client"
 
 [download]
-url = "https://github.com/ice-nuclearcrackhead239/metaslobus/releases/download/1.1.1/metaslobus-1.1.1.jar"
+url = "https://github.com/ice-nuclearcrackhead239/metaslobus/releases/download/1.2/metaslobus-1.2.jar"
 hash-format = "sha256"
-hash = "ff55f837fdbda44b4d4710b51818561d33a68ca6f815bfe4aea69d8277b6b7c5"
+hash = "826a7759ec8b89c05d49579eadc221941f07d15ff853604ef6f1d332a0b87a42"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "ice-nuclearcrackhead239/metaslobus"
-tag = "1.1.1"
+tag = "1.2"
