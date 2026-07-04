@@ -26,3 +26,8 @@ rawMouseInput:true
 skipMultiplayerWarning:true
 joinedFirstServer:true
 soundCategory_music:0.0
+key_key.metaslobus.custom.alpha:key.keyboard.r
+key_key.metaslobus.custom.beta:key.keyboard.grave.accent
+key_key.metaslobus.custom.gamma:key.keyboard.unknown
+key_key.metaslobus.custom.delta:key.keyboard.unknown
+key_key.metaslobus.custom.epsilon:key.keyboard.g

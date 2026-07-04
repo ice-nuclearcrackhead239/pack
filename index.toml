@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "eb8ce5fb113d98354768fe23bc6c3841d030424da0e63944de6c41a2e2ec2d6e"
+hash = "56786691a0956a3d503996879e21f4773f642b475c1215ab6913325ac7ef2517"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
