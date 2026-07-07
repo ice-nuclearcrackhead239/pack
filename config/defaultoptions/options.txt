@@ -16,7 +16,6 @@ graphicsMode:1
 resourcePacks:["vanilla","programer_art","mod_resources"]
 chatHeightFocused:1.0
 chatDelay:0.0
-chatHeightUnfocused:0.44366195797920227
 chatScale:1.0
 chatWidth:1.6428572
 narrator:0
