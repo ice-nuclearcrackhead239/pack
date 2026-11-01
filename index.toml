@@ -25,10 +25,15 @@ metafile = true
 
 [[files]]
 file = "mods/metaslobus.pw.toml"
-hash = "78f3adfeeb6e0f87f2f357331538ae036ce6fd93ef0df41926e55527792cd46c"
+hash = "3b9475aaa6f6e54f3b548fbfc63100d80da05e18a89b82518b40459e06793e28"
 metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
 hash = "df47255cd4a1757a2591f7243719b41a091505dfa823be7e22edf07c9ab14168"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "cc8d99a9a39a0ae74e17a359e4e0dfe17607b2689d07b8f173f04d07989d6552"
 metafile = true
