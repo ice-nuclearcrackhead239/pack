@@ -1,0 +1,13 @@
+name = "quick pack"
+filename = "quick-pack-forge-1.3.1+1.19.2-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pSISfJ4O/versions/9et31Nbb/quick-pack-forge-1.3.1%2B1.19.2-all.jar"
+hash-format = "sha512"
+hash = "7b28e597e5a53f3520c3fcada4abd02d6e74f99ac8742dee12fc0530e4d8f36cce98d1e4909ebcfe6354ed67e2bc22d7935381b53b94895a3ad379f81d665c58"
+
+[update]
+[update.modrinth]
+mod-id = "pSISfJ4O"
+version = "9et31Nbb"
